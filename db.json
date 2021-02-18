@@ -9,7 +9,7 @@
       "total_credit": 15000,
       "sa_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 10000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
@@ -21,13 +21,13 @@
       },
       "tlb_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 12500,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "lotter_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 32400,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       }
@@ -37,29 +37,29 @@
       "username": "echiko",
       "phone_number": "0123456789",
       "currency": "THB",
-      "current_money": 3000,
-      "total_credit": 15000,
+      "current_money": 300,
+      "total_credit": 7650,
       "sa_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 1000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "ae_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 8000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "tlb_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 12000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "lotter_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 7000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       }
@@ -69,29 +69,29 @@
       "username": "emma",
       "phone_number": "0123456789",
       "currency": "THB",
-      "current_money": 3000,
-      "total_credit": 15000,
+      "current_money": 76800,
+      "total_credit": 100000,
       "sa_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 200,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "ae_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 7000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "tlb_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 76000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "lotter_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 59800,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       }
@@ -101,29 +101,29 @@
       "username": "shyher",
       "phone_number": "0123456789",
       "currency": "THB",
-      "current_money": 3000,
-      "total_credit": 15000,
+      "current_money": 5400,
+      "total_credit": 12400,
       "sa_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 12500,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "ae_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 12340,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "tlb_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 3400,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "lotter_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 10000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       }
@@ -133,29 +133,29 @@
       "username": "dante",
       "phone_number": "0123456789",
       "currency": "THB",
-      "current_money": 3000,
-      "total_credit": 15000,
+      "current_money": 2100,
+      "total_credit": 1500,
       "sa_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 34000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "ae_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 23000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "tlb_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 7000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       },
       "lotter_trans": {
         "id": "001",
-        "total_money": 50000,
+        "total_money": 30000,
         "created_at": "2020-09-30T22:27:38.842Z",
         "updated_at": "2020-09-30T22:27:38.842Z"
       }
