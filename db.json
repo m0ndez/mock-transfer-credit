@@ -1,11 +1,11 @@
 {
 "data": {
-"username": "yamado",
+  "username": "yamado",
   "phone_number": "0123456789",
   "currency": "THB",
   "current_money": 3000,
   "total_credit": 15000,
-"sa_trans": {
+  "sa_trans": {
   "id": "001"
 },
   "ae_trans": {
