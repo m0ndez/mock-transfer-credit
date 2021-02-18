@@ -1,7 +1,16 @@
 {
 "data": {
-"username": "userna",
+"username": "yamado",
 "sa_trans": {
+  "id": "001"
+},
+  "ae_trans": {
+  "id": "001"
+},
+  "tlb_trans": {
+  "id": "001"
+},
+  "lotter_trans": {
   "id": "001"
 }
 }
